@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "Test-mod:item/citrine"
+    "layer0": "test mod:item/citrine"
   }
 }
