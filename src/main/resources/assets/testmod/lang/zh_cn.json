@@ -1,4 +1,9 @@
 {
   "item.testmod.citrine": "黄水晶",
-  "item.testmod.raw_citrine": "粗黄水晶"
+  "item.testmod.raw_citrine": "粗黄水晶",
+  "itemgroup.testmod.citrine": "黄水晶",
+
+  "block.testmod.citrine_block": "黄水晶块",
+  "block.testmod.citrine_ore": "黄水晶矿石",
+  "block.testmod.deepslate_itrine_ore": "深层黄水晶矿石"
 }

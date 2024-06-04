@@ -2,8 +2,11 @@ package zc.mod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.minecraft.client.util.ModelIdentifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import zc.mod.registry.ModBlocks;
+import zc.mod.registry.ModItemGroup;
 import zc.mod.registry.Moditems;
 
 public class Testmod implements ModInitializer {
@@ -20,6 +23,8 @@ public class Testmod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Minecraft!");
+		ModItemGroup.registerModItemGroup();
 		Moditems.registersModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
