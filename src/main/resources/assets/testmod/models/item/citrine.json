@@ -1,6 +1,6 @@
 {
-  "parent": "item/genrrated",
+  "parent": "item/generated",
   "textures": {
-    "layer0": "Testmod:item/citrine"
+    "layer0": "Test-mod:item/citrine"
   }
 }
