@@ -1,0 +1,6 @@
+{
+  "parent": "item/genrrated",
+  "textures": {
+    "layer0": "Testmod:item/raw_citrine"
+  }
+}
